@@ -47,7 +47,11 @@ This **Jupyter Notebook project** explores **51,717 restaurants in India** using
 ![Restaurant Ratings in Bengaluru](https://github.com/user-attachments/assets/c5aae360-aabb-4c7c-9e49-2421cd638db2)
 
 ---
+## View the EDA
 
+Check out this [link](https://drive.google.com/file/d/1Hr9OueIxN-GVoW6wQETwPDNK7jQzE05h/view?usp=sharing) to view the notebook with screenshots of the maps' output. 
+
+---
 ## How to Run the Notebook  
 
 1. Clone the repository:  
